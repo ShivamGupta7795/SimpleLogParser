@@ -6,5 +6,4 @@ To jar file shows three operations to run, if you want to search the logs by tim
 are in '[]' braces.
 
 
-If the date format of the log timestamps is different from what is provided in the java code, then change the logTimestampFormat 
-in ParseLogByExpressionAndTimestamp.java file according to your suitable timestamp format.
+If the date format of the log timestamps is different from what is provided in the java code, then change the logTimestampFormat in ParseLogByExpressionAndTimestamp.java file according to your suitable timestamp format.
