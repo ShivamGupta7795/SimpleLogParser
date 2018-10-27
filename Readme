@@ -1,0 +1,10 @@
+To run the jar file type following command in cmd/terminal:
+            "java -cp logparser.jar org.impact.analytics.logs.ParserApplication"
+
+
+To jar file shows three operations to run, if you want to search the logs by timestamp make sure the log timestamps 
+are in '[]' braces.
+
+
+If the date format of the log timestamps is different from what is provided in the java code, then change the logTimestampFormat 
+in ParseLogByExpressionAndTimestamp.java file according to your suitable timestamp format.
